@@ -1,2 +1,2 @@
-a = int(input())
+a = int(input("Enter some integer: "))
 print(a ** 2)
