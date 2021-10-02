@@ -1,4 +1,4 @@
-# turbo-telegram
+# Turbo Telegram
 
 Test repo for AIP Python course
 
